@@ -54,6 +54,11 @@ var store = [{
         "tags": ["safari","screen-sharing"],
         "url": "https://blog.daylo.host/safari-screen-sharing/",
         "teaser":null},{
+        "title": "Should You Let Your Employees Work From Home",
+        "excerpt":"Most managers will have thought about letting their employees work from home at some point. However, it is never a straightforward decision, as what you gain in one area, you lose in another. While previously, there was a shift towards increasing worker flexibility, the tide seems to have turned back....","categories": ["blog"],
+        "tags": ["remote-work","productivity"],
+        "url": "https://blog.daylo.host/should-you-let-your-employees-work-from-home/",
+        "teaser":null},{
         "title": "Vidello Glass",
         "excerpt":"Quickly sketch out your ideas on a drawing board …   ","categories": ["what-is-new"],
         "tags": [],
