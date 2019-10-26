@@ -1,0 +1,75 @@
+
+
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Daylo Host",
+    "description": "Secure online meetings.",
+    "home_page_url": "https://daylo.host",
+    "feed_url": "https://blog.daylo.host/what-is-new.json",
+    "items": [
+        {
+            "title": "Firefox Screen Sharing",
+            "date_published": "2019-04-24T08:18:00-07:00"
+            "id": "https://blog.daylo.host/what-is-new/009.firefox-screen-sharing/item/",
+            "url": "https://blog.daylo.host/firefox-screen-sharing",
+            "icon": "https://blog.daylo.host/what-is-new/009.firefox-screen-sharing/firefox_logo_only_1x.png"
+            "content_html": "<p>Share your screen from Firefox …</p>\n",
+        },
+        {
+            "title": "Daylo",
+            "date_published": "2018-02-20T20:41:00-08:00"
+            "id": "https://blog.daylo.host/what-is-new/008.daylo/item/",
+            "url": "https://blog.daylo.host/daylo",
+            "icon": "https://blog.daylo.host/what-is-new/008.daylo/daylo-48.png"
+            "content_html": "<p>We changed our name from Vidello to Daylo \n…</p>\n",
+        },
+        {
+            "title": "Edge",
+            "date_published": "2017-11-06T17:05:00-08:00"
+            "id": "https://blog.daylo.host/what-is-new/007.edge/item/",
+            "url": "https://blog.daylo.host/edge",
+            "icon": "https://blog.daylo.host/what-is-new/007.edge/edge_logo_only_1x.png"
+            "content_html": "<p><a href=\"https://vidello.host\">Vidello</a> video calls now work on <a href=\"https://www.microsoft.com/en-us/windows/microsoft-edge\">Microsoft Edge</a> …</p>\n",
+        },
+        {
+            "title": "Distraction Free Mode +",
+            "date_published": "2017-10-15T15:30:00-07:00"
+            "id": "https://blog.daylo.host/what-is-new/006.improved-distraction-free-mode/item/",
+            "url": "https://blog.daylo.host/improved-distraction-free-mode",
+            "icon": "https://blog.daylo.host/what-is-new/006.improved-distraction-free-mode/ic_center_focus_strong_black_48dp_1x.png"
+            "content_html": "<p>We replaced the DFM popup with a simple toast notification …</p>\n\n",
+        },
+        {
+            "title": "Safari",
+            "date_published": "2017-10-07T09:11:00-07:00"
+            "id": "https://blog.daylo.host/what-is-new/005.safari/item/",
+            "url": "https://blog.daylo.host/safari",
+            "icon": "https://blog.daylo.host/what-is-new/005.safari/safari_logo_only_1x.png"
+            "content_html": "<p>Enjoy <a href=\"https://vidello.host\">Vidello</a> on <a href=\"https://support.apple.com/downloads/safari\">Safari 11</a> on macOS High Sierra, macOS Sierra, and macOS El Capitan …</p>\n",
+        },
+        {
+            "title": "Firefox",
+            "date_published": "2017-09-17T10:11:00-07:00"
+            "id": "https://blog.daylo.host/what-is-new/004.firefox/item/",
+            "url": "https://blog.daylo.host/firefox",
+            "icon": "https://blog.daylo.host/what-is-new/004.firefox/firefox_logo_only_1x.png"
+            "content_html": "<p>Now you can make video calls using the excellent Mozilla Firefox browser …</p>\n",
+        },
+        {
+            "title": "Distraction Free Mode",
+            "date_published": "2017-07-03T15:37:00-07:00"
+            "id": "https://blog.daylo.host/what-is-new/003.distraction-free-mode/item/",
+            "url": "https://blog.daylo.host/distraction-free-mode",
+            "icon": "https://blog.daylo.host/what-is-new/003.distraction-free-mode/ic_center_focus_strong_black_48dp_1x.png"
+            "content_html": "<p>Give your full attention to your party and the conversation you are having …</p>\n\n",
+        },
+        {
+            "title": "Vidello Glass",
+            "date_published": "2017-06-17T15:37:00-07:00"
+            "id": "https://blog.daylo.host/what-is-new/002.vidello-glass/item/",
+            "url": "https://blog.daylo.host/vidello-glass",
+            "icon": "https://blog.daylo.host/what-is-new/002.vidello-glass/ic_gesture_black_48dp_1x.png"
+            "content_html": "<p>Quickly sketch out your ideas on a drawing board …</p>\n\n",
+        }
+    ]
+}

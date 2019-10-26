@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://blog.daylo.host/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.daylo.host/" rel="alternate" type="text/html" /><updated>2019-10-25T17:32:07-07:00</updated><id>https://blog.daylo.host/feed.xml</id><title type="html">Daylo Host Blog</title><subtitle>Secure online meetings.</subtitle><entry><title type="html">Screen Sharing with Safari</title><link href="https://blog.daylo.host/safari-screen-sharing/" rel="alternate" type="text/html" title="Screen Sharing with Safari" /><published>2019-05-10T15:32:00-07:00</published><updated>2019-05-10T15:32:00-07:00</updated><id>https://blog.daylo.host/safari-screen-sharing</id><content type="html" xml:base="https://blog.daylo.host/safari-screen-sharing/">&lt;p&gt;To share your screen when talking on &lt;a href=&quot;https://daylo.host&quot;&gt;Daylo Host&lt;/a&gt; from Safari on macOS. You just need to do a a few simple configuration changes.&lt;/p&gt;
+
+&lt;p&gt;Here is how it works!&lt;/p&gt;
+
+&lt;h3 id=&quot;configuration&quot;&gt;Configuration&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure you are using the latest version of Safari on macOS or newer. At the time of writing that was Safari 12.1.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Safari Preferences&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-config-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On the Adavnced tab, check &lt;code class=&quot;highlighter-rouge&quot;&gt;Show Developer menu in menu bar&lt;/code&gt;. Close &lt;code class=&quot;highlighter-rouge&quot;&gt;Preferences&lt;/code&gt; window.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-config-1.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to the Develop menu and then to Experimental Features. Check &lt;code class=&quot;highlighter-rouge&quot;&gt;ScreenCapture&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;WebRTC Unified Plan&lt;/code&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-config-2.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;screen-sharing&quot;&gt;Screen Sharing&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to &lt;a href=&quot;https://daylo.host&quot;&gt;https://daylo.host&lt;/a&gt;:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-1.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Press Start. Allow Daylo Host to access your camera and microphone.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-2.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start screen sharing.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/safari-screen-sharing/safari-3.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enjoy your presentation.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;These steps work for the desktop version of Safari (macOS). Unfortunately screen sharing is not available for mobile Safari (iOS) yet.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="safari" /><category term="screen-sharing" /><summary type="html">To share your screen when talking on Daylo Host from Safari on macOS. You just need to do a a few simple configuration changes.</summary></entry><entry><title type="html">Screen Sharing with Firefox</title><link href="https://blog.daylo.host/firefox-screen-sharing/" rel="alternate" type="text/html" title="Screen Sharing with Firefox" /><published>2019-04-24T07:52:00-07:00</published><updated>2019-04-24T07:52:00-07:00</updated><id>https://blog.daylo.host/firefox-screen-sharing</id><content type="html" xml:base="https://blog.daylo.host/firefox-screen-sharing/">&lt;p&gt;Is your favorite browser &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt;? If so, you can now share your screen when talking on &lt;a href=&quot;https://daylo.host&quot;&gt;Daylo Host&lt;/a&gt; from Firefox. It will work even when the other party is using Chrome. No plugins or extensions required!&lt;/p&gt;
+
+&lt;p&gt;Here is how it works:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure you are on Firefox version 62 or newer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to &lt;a href=&quot;https://daylo.host&quot;&gt;https://daylo.host&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/firefox-screen-sharing/firefox-1.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Press Start. Allow Daylo Host to access your camera and microphone.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/firefox-screen-sharing/firefox-2.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start screen sharing&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/firefox-screen-sharing/firefox-3.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enjoy your presentation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="news" /><category term="firefox" /><category term="screen-sharing" /><summary type="html">Is your favorite browser Firefox? If so, you can now share your screen when talking on Daylo Host from Firefox. It will work even when the other party is using Chrome. No plugins or extensions required!</summary></entry><entry><title type="html">Keep Yourself on Track (and Sane) When Working From Home</title><link href="https://blog.daylo.host/working-from-home/" rel="alternate" type="text/html" title="Keep Yourself on Track (and Sane) When Working From Home" /><published>2019-01-11T13:43:00-08:00</published><updated>2019-01-11T13:43:00-08:00</updated><id>https://blog.daylo.host/working-from-home</id><content type="html" xml:base="https://blog.daylo.host/working-from-home/">&lt;p&gt;You have this project to finish, but the garage needs to be cleaned. Better take the Christmas lights down, oh, and make sure you save some time for checking out and replying to LinkedIn and Twitter posts. If this sounds familiar to you, it’s probably because you’re trying to keep yourself on track when working from home. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/working-from-home/working-from-home.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;According to the most recent data from Gallup, about 43 percent of Americans work remotely at least part time, and Census data has found that about 3 percent of employees work from home at least half the time.&lt;/p&gt;
+
+&lt;p&gt;And while people have lots of reasons for being drawn to work-from-home jobs, they often have similar complaints and hurdles. But with just a few tips you can ensure you’re staying sane while working from home.&lt;/p&gt;
+
+&lt;h3 id=&quot;stay-on-schedule&quot;&gt;Stay on Schedule&lt;/h3&gt;
+
+&lt;p&gt;You may not want or be able to work 9-5, but you should maintain a regular schedule. If every day is spent simply flying by the seat of your pants, you never give your brain a chance to cool down. This can only add to your stress level.&lt;/p&gt;
+
+&lt;h3 id=&quot;take-breaks&quot;&gt;Take Breaks&lt;/h3&gt;
+
+&lt;p&gt;Establishing and keeping to a schedule doesn’t mean you keep your nose constantly to the grindstone. Arguably, the best part of working from home is having the freedom to take a long lunch or walk the dog an extra half-mile. &lt;/p&gt;
+
+&lt;h3 id=&quot;talk-to-a-human-at-least-once-a-day&quot;&gt;Talk to a Human at Least Once a Day&lt;/h3&gt;
+
+&lt;p&gt;Particularly for those folks who work from home and live alone, remote work can be incredibly isolating. Whether it’s a chat with a grocery store clerk or a phone call with an old friend, maintaining human contact is crucial, since you can’t just lean over to the next cubicle and get your social fix.&lt;/p&gt;
+
+&lt;h3 id=&quot;set-up-an-office-space&quot;&gt;Set up an Office Space&lt;/h3&gt;
+
+&lt;p&gt;One of the most common complaints about working from home is the lack of separation from the job and the home. If you can, set up your workspace in a spare room or at least somewhere in your house you don’t have to constantly look at. It also might help you claim a small tax break, but you’ll need to talk to your tax preparer about that.&lt;/p&gt;
+
+&lt;h3 id=&quot;push-through-low-productivity-times&quot;&gt;Push Through Low Productivity Times&lt;/h3&gt;
+
+&lt;p&gt;We all go through periods where we don’t feel like we’re accomplishing anything. This happens for folks who work in an office every day, too, but they benefit from being able to hide in plain sight. When you’re the only person in your office, there’s nowhere to hide. When you’re feeling unproductive, just keep going and don’t allow yourself to call it a day early.&lt;/p&gt;
+
+&lt;h3 id=&quot;train-your-friends-and-family&quot;&gt;Train Your Friends and Family&lt;/h3&gt;
+
+&lt;p&gt;Especially if you’re new to remote work, your friends and family might look at this as a chance to spend more time with you when you really should be working. As we said before, long lunches are great from time to time, but you certainly still need to make money. So try to set up boundaries with the people in your life that make it clear you still value your work.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont-buy-certain-foods&quot;&gt;Don’t Buy Certain Foods&lt;/h3&gt;
+
+&lt;p&gt;Keeping lots of snacks and junk food on-hand can be a recipe for weight gain when you spend almost all your time at home. Be honest with yourself about your eating (and snacking) habits. If you just can’t resist polishing off a sleeve of Oreos, don’t buy them. And make sure you’re eating actual meals, too, so you’ll be less inclined to graze as you walk past the kitchen.&lt;/p&gt;
+
+&lt;h3 id=&quot;get-dressed&quot;&gt;Get Dressed&lt;/h3&gt;
+
+&lt;p&gt;One of the most-ballyhooed benefits of working from home is that you probably could do it in your PJs. And while it’s tempting, you should get ready in the morning (or whenever you start your day) pretty much as you would if you had a commute. Sure, you can swap the suit for track pants or the shoes for slippers, but getting ready every morning helps switch your brain into work mode rather than chill mode.&lt;/p&gt;
+
+&lt;h3 id=&quot;leave-the-house&quot;&gt;Leave the House&lt;/h3&gt;
+
+&lt;p&gt;Fresh air and sunshine are well-known to have major benefits to your mental and physical health. Even taking a walk around the block is believed to lower blood pressure in many people. So when you hit a stopping point, or even before you begin your day (depending on your location and the season), walk away from the computer and step outside. If you can fit a workout into your out-of-doors adventure, even better.&lt;/p&gt;
+
+&lt;h3 id=&quot;open-a-window&quot;&gt;Open a Window&lt;/h3&gt;
+
+&lt;p&gt;The isolation common for many folks who work from home often is just a matter of perspective. If you only see what’s going on inside your office/house, that’s what your perspective will be. Shifting that perspective could be as simple as pulling open your curtains to see the view or all the activity happening in your neighborhood. &lt;/p&gt;
+
+&lt;h3 id=&quot;clean-up-every-day&quot;&gt;Clean up Every Day&lt;/h3&gt;
+
+&lt;p&gt;This is harder for those who create a lot of mess in their work, but keeping your workspace tidy helps keep your mental space free of clutter as well. It also will help tomorrow you be more productive because you won’t have to clean up after yesterday you. Throw away any scrap pieces of paper, return any plates or cups you got from the kitchen and return any books or tools you may have gotten down during the course of the day.&lt;/p&gt;
+
+&lt;p&gt;If you talk to someone who works from home, they’ll likely tell you they’d rather do nothing else. There’s no doubt the benefits outweigh the drawbacks, but only once you’ve learned to put the negatives aside. A few simple tips can help you combat the isolation that comes with remote work and keep you productive (and sane) when you’re working from home.&lt;/p&gt;</content><author><name></name></author><category term="remote-work" /><category term="productivity" /><summary type="html">You have this project to finish, but the garage needs to be cleaned. Better take the Christmas lights down, oh, and make sure you save some time for checking out and replying to LinkedIn and Twitter posts. If this sounds familiar to you, it’s probably because you’re trying to keep yourself on track when working from home. </summary></entry><entry><title type="html">Daylo</title><link href="https://blog.daylo.host/daylo/" rel="alternate" type="text/html" title="Daylo" /><published>2018-02-20T20:34:00-08:00</published><updated>2018-02-20T20:34:00-08:00</updated><id>https://blog.daylo.host/daylo</id><content type="html" xml:base="https://blog.daylo.host/daylo/">&lt;h2 id=&quot;vidello-inc-is-now-daylo-inc&quot;&gt;Vidello Inc. is now Daylo Inc.&lt;/h2&gt;
+
+&lt;p&gt;We are building the next generation of communication and collaboration tools for the distributed workforce of the future.&lt;/p&gt;
+
+&lt;p&gt;So we changed our name to better reflect our broader goals and mission.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/daylo/vidello-is-now-daylo.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="daylo" /><summary type="html">Vidello Inc. is now Daylo Inc.</summary></entry><entry><title type="html">Edge</title><link href="https://blog.daylo.host/edge/" rel="alternate" type="text/html" title="Edge" /><published>2017-11-06T16:18:00-08:00</published><updated>2017-11-06T16:18:00-08:00</updated><id>https://blog.daylo.host/edge</id><content type="html" xml:base="https://blog.daylo.host/edge/">&lt;p&gt;We are proud to announce that &lt;a href=&quot;https://daylo.host&quot;&gt;Vidello&lt;/a&gt; video calls now work on latest &lt;a href=&quot;https://www.microsoft.com/en-us/windows/microsoft-edge&quot;&gt;Microsoft Edge&lt;/a&gt; … and that means that you can now use Vidello with the four major browsers - Chrome, Edge, Firefox, and Safari. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/edge/edge-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NOTE: Microsoft does not offer separate updates to their browser app so you will need to upgrade to the latest version of Windows. To get the latest Microsoft Edge you will have to install the &lt;a href=&quot;https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-fall-creators-update&quot;&gt;Windows 10 Fall Creators Update&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="news" /><category term="edge" /><summary type="html">We are proud to announce that Vidello video calls now work on latest Microsoft Edge … and that means that you can now use Vidello with the four major browsers - Chrome, Edge, Firefox, and Safari. Enjoy!</summary></entry><entry><title type="html">Improved Distraction Free Mode</title><link href="https://blog.daylo.host/improved-distraction-free-mode/" rel="alternate" type="text/html" title="Improved Distraction Free Mode" /><published>2017-10-15T15:55:00-07:00</published><updated>2017-10-15T15:55:00-07:00</updated><id>https://blog.daylo.host/improved-distraction-free-mode</id><content type="html" xml:base="https://blog.daylo.host/improved-distraction-free-mode/">&lt;p&gt;We introduced &lt;a href=&quot;/distraction-free-mode&quot;&gt;Distraction Free Mode&lt;/a&gt; back in July and at the time we were pretty happy with how we designed it. However over time it became clear that the DFM notification popup window was probably not a good idea. So we had to do something about it and here is what we came up with:&lt;/p&gt;
+
+&lt;p&gt;In the latest &lt;a href=&quot;https://daylo.host&quot;&gt;Vidello&lt;/a&gt; version when your party goes DFM, instead of you seeing this annoying popup dialog:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/improved-distraction-free-mode/dfm_notify_popup.png&quot; alt=&quot;Distraction Free Mode Notify&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You now see this unobtrusive toast notification at the top of your screen:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/improved-distraction-free-mode/dfm_notify_toast.png&quot; alt=&quot;Distraction Free Mode Toast&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The toast will stay up for 10 seconds and disappear automatically. During the 10 seconds, you too can go DFM by pressing the JOIN button.&lt;/p&gt;
+
+&lt;p&gt;And if you miss the toast you can always switch to Distraction Free Mode from the utility toolbar that appears on the right side of your screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/improved-distraction-free-mode/dfm_toolbar.png&quot; alt=&quot;Distraction Free Mode Tool&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html">We introduced Distraction Free Mode back in July and at the time we were pretty happy with how we designed it. However over time it became clear that the DFM notification popup window was probably not a good idea. So we had to do something about it and here is what we came up with:</summary></entry><entry><title type="html">Safari</title><link href="https://blog.daylo.host/safari/" rel="alternate" type="text/html" title="Safari" /><published>2017-10-07T08:19:00-07:00</published><updated>2017-10-07T08:19:00-07:00</updated><id>https://blog.daylo.host/safari</id><content type="html" xml:base="https://blog.daylo.host/safari/">&lt;p&gt;&lt;span style=&quot;font-size: 133%;&quot;&gt;O&lt;/span&gt;nce upon a time there was Safari 10, and it met Vidello and said “How can I help?”. And Vidello said “I like you a lot but unfortunately you do not have real-time video. I am sorry but I cannot work with you at this time.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/safari/safari-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Months passed, and more months passed, and then a few more months passed, and it felt like it would never happen but suddenly Safari 11 appeared, and Vidello could work with Safari, and Safari was happy, and Vidello was happy, and Vidello users were happy they could use Safari, and all was good.&lt;/p&gt;
+
+&lt;p&gt;Enjoy &lt;a href=&quot;https://daylo.host&quot;&gt;Vidello&lt;/a&gt; on &lt;a href=&quot;https://support.apple.com/downloads/safari&quot;&gt;Safari 11&lt;/a&gt; on macOS High Sierra, macOS Sierra, and macOS El Capitan.&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="safari" /><summary type="html">Once upon a time there was Safari 10, and it met Vidello and said “How can I help?”. And Vidello said “I like you a lot but unfortunately you do not have real-time video. I am sorry but I cannot work with you at this time.”</summary></entry><entry><title type="html">Firefox</title><link href="https://blog.daylo.host/firefox/" rel="alternate" type="text/html" title="Firefox" /><published>2017-09-17T10:11:00-07:00</published><updated>2017-09-17T10:11:00-07:00</updated><id>https://blog.daylo.host/firefox</id><content type="html" xml:base="https://blog.daylo.host/firefox/">&lt;p&gt;Rejoice you millions of &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/new/&quot;&gt;Firefox&lt;/a&gt; fans! We worked hard for several months to give you Daylo Host. So that now you can see each other in high definition during video calls. No plugins or extensions required.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/firefox/firefox-0.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is how to use it:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to &lt;a href=&quot;https://daylo.host&quot;&gt;https://daylo.host&lt;/a&gt;:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/firefox/firefox-1.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Allow Daylo Host to access your camera and microphone:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/firefox/firefox-2.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enjoy your video call:&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/firefox/firefox-3-blurred.png&quot; alt=&quot;&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Disclaimer: Though video calls are pretty awesome some things still need work. More specifically screen sharing and speech-to-text are not done yet, but we are working on it.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="news" /><category term="firefox" /><summary type="html">Rejoice you millions of Firefox fans! We worked hard for several months to give you Daylo Host. So that now you can see each other in high definition during video calls. No plugins or extensions required.</summary></entry><entry><title type="html">Distraction Free Mode</title><link href="https://blog.daylo.host/distraction-free-mode/" rel="alternate" type="text/html" title="Distraction Free Mode" /><published>2017-07-20T11:40:00-07:00</published><updated>2017-07-20T11:40:00-07:00</updated><id>https://blog.daylo.host/distraction-free-mode</id><content type="html" xml:base="https://blog.daylo.host/distraction-free-mode/">&lt;h2 id=&quot;what-is-distraction-free-mode&quot;&gt;What is distraction free mode?&lt;/h2&gt;
+
+&lt;p&gt;In distraction free mode your browser switches to full screen and replaces your selfie with the silhouette of your head. Because you cannot see other windows or yourself you can give your full attention to your party and the conversation you are having.&lt;/p&gt;
+
+&lt;p&gt;This is how it looks when it is on:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/distraction-free-mode/dfm_full_screen_blurred.png&quot; alt=&quot;Distraction Free Mode Full Screen&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To help you stay in view, Vidello tracks the position of your head with a live silhouette which shows whether you are in or out of the camera frame.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/distraction-free-mode/dfm_selfie.png&quot; alt=&quot;Distraction Free Mode Selfie&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-i-use-it&quot;&gt;How do I use it?&lt;/h2&gt;
+
+&lt;p&gt;To enter distraction free mode use the &lt;i class=&quot;material-icons&quot;&gt;center_focus_strong&lt;/i&gt; button on the utility toolbar (which pops up on the right side).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/distraction-free-mode/dfm_toolbar.png&quot; alt=&quot;Distraction Free Mode Tool&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you enter distraction-free mode on your party will be notified and offered to enter distraction-free mode themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/distraction-free-mode/dfm_notify.png&quot; alt=&quot;Distraction Free Mode Notify&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They may choose to follow or ignore your request but at least they would know that you want to have a focused, distraction-free conversation.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html">What is distraction free mode?</summary></entry><entry><title type="html">Vidello Glass</title><link href="https://blog.daylo.host/vidello-glass/" rel="alternate" type="text/html" title="Vidello Glass" /><published>2017-06-17T15:37:00-07:00</published><updated>2017-06-17T15:37:00-07:00</updated><id>https://blog.daylo.host/vidello-glass</id><content type="html" xml:base="https://blog.daylo.host/vidello-glass/">&lt;h2 id=&quot;a-drawing-is-worth-a-thousand-words&quot;&gt;A drawing is worth a thousand words&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/vidello-glass/vidello-glass.jpg&quot; alt=&quot;vidello-glass&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At those times when words are not enough, you can now open a board and quickly sketch out your ideas for everybody to see, and not only that, but they can draw with you on the same board too. Yep.&lt;/p&gt;
+
+&lt;p&gt;We are proud to anounce the latest additon to the Vidello family - the &lt;a href=&quot;https://vidello.glass&quot;&gt;&lt;strong&gt;Vidello Glass&lt;/strong&gt;&lt;/a&gt; drawing board. To open a board, while in a call, use the Drawing Board &lt;i class=&quot;material-icons&quot;&gt;gesture&lt;/i&gt; tool in the utilities toolbar (which pops up on the right side). By default, the board is semi-trasparent so you can see your party through the board - that is why we call it “the glass” - though you can turn the glass off if you do not like it.&lt;/p&gt;
+
+&lt;h2 id=&quot;want-to-draw-alone&quot;&gt;Want to draw alone?&lt;/h2&gt;
+
+&lt;p&gt;We got you covered! You can have Vidello Glass all to yourself by going to &lt;a href=&quot;https://vidello.glass&quot;&gt;https://vidello.glass&lt;/a&gt;. You will even be able to save your drawings to your computer and work on them at a later time.&lt;/p&gt;
+
+&lt;!-- As usual we would love to hear from you about this feature at Vidello Radar. Let us know what you think.  --&gt;</content><author><name></name></author><category term="news" /><summary type="html">A drawing is worth a thousand words</summary></entry></feed>
