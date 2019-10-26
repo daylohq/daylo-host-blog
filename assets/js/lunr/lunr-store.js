@@ -50,7 +50,7 @@ var store = [{
         "url": "https://blog.daylo.host/firefox-screen-sharing/",
         "teaser":null},{
         "title": "Screen Sharing with Safari",
-        "excerpt":"To share your screen when talking on Daylo Host from Safari on macOS. You just need to do a a few simple configuration changes. Here is how it works! Configuration Make sure you are using the latest version of Safari on macOS or newer. At the time of writing that...","categories": ["blog"],
+        "excerpt":"To share your screen when talking on Daylo Host from Safari on macOS. You just need to do a few simple configuration changes. Here is how it works! Configuration Make sure you are using the latest version of Safari on macOS or newer. At the time of writing that was...","categories": ["blog"],
         "tags": ["safari","screen-sharing"],
         "url": "https://blog.daylo.host/safari-screen-sharing/",
         "teaser":null},{
