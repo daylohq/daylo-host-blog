@@ -43,7 +43,7 @@ var store = [{
         "excerpt":"You have this project to finish, but the garage needs to be cleaned. Better take the Christmas lights down, oh, and make sure you save some time for checking out and replying to LinkedIn and Twitter posts. If this sounds familiar to you, it’s probably because you’re trying to keep...","categories": ["blog"],
         "tags": ["remote-work","productivity"],
         "url": "https://blog.daylo.host/working-from-home/",
-        "teaser":null},{
+        "teaser":"https://blog.daylo.host/assets/images/working-from-home/working-from-home.png"},{
         "title": "Screen Sharing with Firefox",
         "excerpt":"Is your favorite browser Firefox? If so, you can now share your screen when talking on Daylo Host from Firefox. It will work even when the other party is using Chrome. No plugins or extensions required! Here is how it works: Make sure you are on Firefox version 62 or...","categories": ["blog"],
         "tags": ["news","firefox","screen-sharing"],
@@ -58,7 +58,7 @@ var store = [{
         "excerpt":"Most managers will have thought about letting their employees work from home at some point. However, it is never a straightforward decision, as what you gain in one area, you lose in another. While previously, there was a shift towards increasing worker flexibility, the tide seems to have turned back....","categories": ["blog"],
         "tags": ["remote-work","productivity"],
         "url": "https://blog.daylo.host/should-you-let-your-employees-work-from-home/",
-        "teaser":null},{
+        "teaser":"https://blog.daylo.host/assets/images/should-you-let-your-employees-work-from-home/work-from-home.png"},{
         "title": "Vidello Glass",
         "excerpt":"Quickly sketch out your ideas on a drawing board …   ","categories": ["what-is-new"],
         "tags": [],
