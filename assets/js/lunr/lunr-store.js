@@ -59,6 +59,11 @@ var store = [{
         "tags": ["remote-work","productivity"],
         "url": "https://blog.daylo.host/should-you-let-your-employees-work-from-home/",
         "teaser":"https://blog.daylo.host/assets/images/should-you-let-your-employees-work-from-home/work-from-home.png"},{
+        "title": "Remote Work and Networking: The Virtual Coffee Break",
+        "excerpt":"Remote work is the new normal, and it’s here for the foreseeable future. There are some definite perks to working from home–like not having to actually change out of your pajamas–but there are some difficulties as well. Networking is one of those. How do you network virtually? Enter the virtual...","categories": ["blog"],
+        "tags": ["remote-work","networking"],
+        "url": "https://blog.daylo.host/remote-work-and-networking-the-virtual-coffee-break/",
+        "teaser":"https://blog.daylo.host/assets/images/remote-work-and-networking-the-virtual-coffee-break/kermit-have-a-break.jpg"},{
         "title": "Vidello Glass",
         "excerpt":"Quickly sketch out your ideas on a drawing board …   ","categories": ["what-is-new"],
         "tags": [],
